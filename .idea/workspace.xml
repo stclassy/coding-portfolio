@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48fb4e08-1624-404a-8dd2-26031eee33a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/entity/Recipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/entity/RecipeIngredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/entity/GroceryIngredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/entity/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/entity/LinkRecipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/persistence/GenericDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/java/com/groceryListBuilder/persistence/SessionFactoryProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/groceryListBuilder/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/groceryListBuilder/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/groceryListBuilder/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +170,8 @@
       <option name="presentableId" value="Default" />
       <updated>1685992843129</updated>
       <workItem from="1685992845179" duration="2604000" />
-      <workItem from="1686960288684" duration="2032000" />
+      <workItem from="1686960288684" duration="2377000" />
+      <workItem from="1687224899680" duration="2044000" />
     </task>
     <servers />
   </component>
